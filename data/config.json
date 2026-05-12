@@ -1,0 +1,19 @@
+{
+  "juego": {
+    "precio": 19.99,
+    "retencion_esperada": 0.70,
+    "tag_multiplier": 1.0
+  },
+  "marketing": {
+    "gasto_diario": 50,
+    "seguidores": {
+      "twitter": 5000,
+      "instagram": 2000,
+      "youtube": 10000
+    }
+  },
+  "simulacion": {
+    "duracion_dias": 90,
+    "shock_multiplier": 10.0
+  }
+}

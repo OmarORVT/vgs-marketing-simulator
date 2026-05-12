@@ -1,0 +1,22 @@
+{
+  "tags_steam": {
+    "roguelike": 1.4, "terror": 1.3, "anime": 1.25, "simulacion": 1.1, "soulslike": 1.5,
+    "metroidvania": 1.35, "pixelart": 1.05, "estrategia": 1.15, "fps": 1.2, "rpg": 1.2,
+    "coop": 1.45, "supervivencia": 1.4, "mundo_abierto": 1.3, "puzzle": 1.0, "carreras": 1.1,
+    "deportes": 1.0, "novela_visual": 1.1, "gestion": 1.25, "sandbox": 1.3, "terror_psicologico": 1.4,
+    "cyberpunk": 1.2, "fantasia": 1.1, "sci-fi": 1.1, "historico": 1.0, "gore": 1.2,
+    "multijugador": 1.5, "cartas": 1.3, "tower_defense": 1.2, "plataformas": 1.05, "musica": 1.1,
+    "vr": 1.4, "battle_royale": 1.6, "moba": 1.5, "mmo": 1.6, "sigilo": 1.1,
+    "educativo": 0.8, "comedia": 1.2, "drama": 1.0, "espacial": 1.15, "misterio": 1.2,
+    "detective": 1.25, "hack_and_slash": 1.35, "beat_em_up": 1.2, "bullet_hell": 1.4, "clicker": 0.9,
+    "farming_sim": 1.3, "dating_sim": 1.2, "point_and_click": 1.0, "lucha": 1.2, "sandbox_fisica": 1.3
+  },
+  "posibles_eventos": [
+    {"nombre": "Streamer Grande", "probabilidad": 0.001, "multiplicador": 45.0},
+    {"nombre": "Streamer Mediano", "probabilidad": 0.005, "multiplicador": 12.0},
+    {"nombre": "Critica Profesional", "probabilidad": 0.01, "multiplicador": 5.5},
+    {"nombre": "Video Viral", "probabilidad": 0.02, "multiplicador": 15.0},
+    {"nombre": "Algoritmo Steam", "probabilidad": 0.05, "multiplicador": 4.0},
+    {"nombre": "Review Bombing", "probabilidad": 0.005, "multiplicador": 0.4}
+  ]
+}
